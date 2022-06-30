@@ -8,4 +8,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermefls&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
-  ![Snake animation](https://github.com/Guilhermefls/Guilhermefls/blob/output/github-contribution-grid-snake.svg)
