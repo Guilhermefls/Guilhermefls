@@ -1,6 +1,6 @@
 ### Olá! Aqui é o Guilherme
 
-- 🌱 Estudando HTML, CSS e linguagem C.
+- 🌱 Estudando HTML, CSS, PYTHON e C.
 
 <div align="center">
   <a href="https://github.com/Guilhermefls">
