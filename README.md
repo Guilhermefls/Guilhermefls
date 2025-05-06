@@ -1,7 +1,5 @@
 ### Olá! Aqui é o Guilherme
 
-- 🌱 Estudando HTML, CSS, PYTHON e C.
-
 <div align="center">
   <a href="https://github.com/Guilhermefls">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Guilhermefls&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
